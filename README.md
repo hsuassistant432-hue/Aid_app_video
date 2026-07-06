@@ -4,6 +4,6 @@
 
 ## 線上觀看
 
-[開啟影片網站](https://kyzen5128.github.io/Aid_app_video/)
+[開啟影片網站](https://hsuassistant432-hue.github.io/Aid_app_video/)
 
 目前收錄：[血癌照護運動影片](./HSCT/)
