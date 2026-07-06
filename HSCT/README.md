@@ -1,6 +1,6 @@
-# HSCT運動照護影片
+# HSCT自我照護影片
 
-前往 [HSCT運動照護影片網站](https://hsuassistant432-hue.github.io/Aid_app_video/) 即可在瀏覽器直接觀看。
+前往 [HSCT自我照護影片網站](https://hsuassistant432-hue.github.io/Aid_app_video/) 即可在瀏覽器直接觀看。
 
 ## 呼吸練習
 
