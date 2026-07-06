@@ -6,6 +6,9 @@ on:
     paths:
       - "HSCT/**"
       - ".github/workflows/deploy-hsct-pages.yml"
+  workflow_run:
+    workflows: ["pages build and deployment"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -24,6 +27,7 @@ jobs:
       - name: Checkout HSCT site
         uses: actions/checkout@v7
         with:
+          ref: master
           sparse-checkout: HSCT
 
       - name: Configure GitHub Pages
